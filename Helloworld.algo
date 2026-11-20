@@ -12,6 +12,8 @@ Algo HelloWorld {
         Créer la couleur verte
         Mettre la couleur verte en fond de la fenêtre
 
+        // Modification réalisée directement depuis GitHub (C20)
+
         // Finalisation
         Ajouter le label sur la fenêtre
         Afficher la fenêtre
